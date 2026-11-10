@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+.venv/
+data/*.db
+reports/*.pdf
+models/checkpoints/*.pt
+models/checkpoints/*.pth
+.env

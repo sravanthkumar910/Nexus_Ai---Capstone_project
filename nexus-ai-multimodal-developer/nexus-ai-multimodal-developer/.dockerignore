@@ -1,0 +1,11 @@
+**/__pycache__
+**/*.pyc
+.pytest_cache
+node_modules
+dist
+data/raw/*
+!data/raw/.gitkeep
+reports/*.pdf
+models/checkpoints/*
+.env
+.git
